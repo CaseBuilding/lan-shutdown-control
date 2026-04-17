@@ -1,0 +1,8 @@
+{
+  "port": 8765,
+  "access_token": "请在这里输入你的访问令牌，或留空让程序自动生成",
+  "auto_start": true,
+  "start_with_windows": false,
+  "shutdown_delay_seconds": 15,
+  "bind_host": "0.0.0.0"
+}
