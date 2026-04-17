@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.python-version
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+config.json
+*.exe
+*.iss
+dist_installer/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Build tools
+.build_tools/
+build_tools/
+
+# Vendor dependencies
+vendor/
